@@ -1,0 +1,24 @@
+body {
+	padding: 40px 0;
+}
+
+.dp img {
+	float: right;
+}
+h1, h2 {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	font-size: 28px;
+	padding: 0;
+	margin: 0;
+
+}
+h2 {
+	font-size: 16px;
+	font-weight: 200;
+}
+.links {
+	margin-top: 15px;
+}
